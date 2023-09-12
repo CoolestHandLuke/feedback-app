@@ -30,7 +30,7 @@ Users should be able to:
 
 ### Links
 
--   Solution URL: [https://legendary-nougat-28dee2.netlify.app/](https://legendary-nougat-28dee2.netlify.app/)
+-   Solution URL: [https://lustrous-kitsune-f7c032.netlify.app/](https://lustrous-kitsune-f7c032.netlify.app/)
 
 ## My process
 
