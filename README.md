@@ -47,4 +47,4 @@ This project really helped solidify my knowledge of state management (and the pe
 
 ## Author
 
--   Website - [https://www.lukeinthecloud.com](https://www.lukedinthecloud.com)
+-   Website - [https://www.coolesthandluke.com](https://www.coolesthandluke.com)
